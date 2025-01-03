@@ -1,10 +1,18 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 4: Create segments'
+---
+
+# Lab 4: Create segments
+
+In this lab, you will learn how to:
 - Create a segment from a profile
 - Create a segment using measures
 - Create a segment from scratch
 
-## Create a segment from a profile
-In this first task, we are going create a segment based on the customer profile. We are going to identify any customers who reside in the state of Texas. 
+## Exercise 1: Create segments from multiple sources 
+### Task 1: Create segment from a profile
+In this first task we are going create a segment based on the customer profile. We are going to identify any customers who reside in the state of Texas. 
 
 1. Expand **Insights** and select **Segments** from the left navigation menu.
 
@@ -18,7 +26,7 @@ In this first task, we are going create a segment based on the customer profile.
 
 1. Select **Save**.
 
-## Create a segment using measures 
+### Task 2: Create a segment using measures 
 Contoso Coffee Marketing wants to run a new promotion. Based on historical data, marketing has identified that they wish to target brew-at-home customers with a higher-than-average online purchase value to do so. This time we are going to create the segment using the **Create from Measures** option. 
 
 1. Select **Insights > Segments** from the left navigation menu.
@@ -37,7 +45,7 @@ Contoso Coffee Marketing wants to run a new promotion. Based on historical data,
 
 1. Select **Save**.
 
-## Create a segment from scratch
+### Task 3: Create a segment from scratch
 Every season, Contoso Coffee runs different promotions. This year, they want to run a Fall Closeout Promotion that is designed on selling the remaining year end models. They are looking to target Gen Xers with a higher than average in-store purchase with their newly launched Cold Brew Coffee. Since there are multiple criteria needed for this segment, we are going to create it from scratch.
 
 1. Select **Insights > Segments** from the left navigation menu. Select **+ New > Build your own**.
