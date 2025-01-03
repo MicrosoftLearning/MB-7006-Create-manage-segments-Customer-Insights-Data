@@ -122,4 +122,4 @@ Congratulations. You have now successfully created your first data source with a
 
 1. Name this query **Purchases** and select **Save**.
 
-**Important:** You will have to wait for the status of all your data sources to be **Successful** before you can advance to the first exercise.
+**Important:** You will have to wait for the status of all your data sources to be **Successful** before you can advance to the next exercise.
