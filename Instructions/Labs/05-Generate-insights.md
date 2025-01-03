@@ -1,10 +1,18 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 5: Generate insights'
+---
+
+# Lab 5: Generate insights 
+
+In this lab, you will learn how to:
 - Generate insights about your segments 
 - View differentiators and overlap between segments 
 - Build suggested segments based on a segment 
 
-## Segment differentiators
- Often, you will have customers that exist in multiple segments. It can be helpful to understand when you might have overlap between them. Let's try to find out common customers that belong to both **Customers from Texas** and **Fall close out Promotion** segments and also what differentiates both of these segments in terms of **Reward points** and **LifetimeSpend**.
+## Exercise 1: Generate insights on your segments
+### Task 1: Segment differentiators
+Often, you will have customers that exist in multiple segments. It can be helpful to understand when you might have overlap between them. Let's try to find out common customers that belong to both **Customers from Texas** and **Fall close out Promotion** segments and also what differentiates both of these segments in terms of **Reward points** and **LifetimeSpend**.
 
 1. Select **Insights > Segments** from the left navigation menu. Select the **Insights (preview)** tab and select **+ New** from the command bar, or select the **+ New insight** button.
 
@@ -24,7 +32,7 @@ In this unit, you will learn how to:
 
 1. Select each measure and attribute to see deeper insights.
 
-## Segment overlap
+### Task 2: Segment overlap
 Now that we have successfully created a Segment insight using **Differentiators**, let's create an insight using **Overlap**.
 
 1. Make sure you're still in the **Segments > Insights (preview)** tab and select **+ New** from the command bar. Choose **Overlap**.
@@ -37,7 +45,8 @@ Now that we have successfully created a Segment insight using **Differentiators*
 
 1. After the insight finishes refreshing, open the created insight to see the venn diagram showing the total and percentage of shared customers between these two segments.
 
-## Segment expansion
+## Exercise 2: Segment expansion and suggested segments
+### Task 1: Segment expansion
 Segment Expansion can be used to find similar customers to your segment customer base using Artificial Intelligence. Earlier we created a segment called **Fall Promotion Customers**, which contains millennial customers with higher than average in-store purchase. Now, let's expand that segment and find customers that are similar to them for us to market our newly launched Cold Brew Coffee.
 
 1. Select **Insights > Segments** from the left navigation menu and select the **All segments** tab.
@@ -60,7 +69,7 @@ Segment Expansion can be used to find similar customers to your segment customer
 
 1. After the segment finishes refreshing, open the segment to find the **Similarity Scores** and explore the **Segment members preview**.
 
-## Get suggested segments 
+### Task 2: Get suggested segments 
 Use Suggested Segments to discover interesting segments based on a customer attribute or measure of interest.
 
 1. Select **Insights > Segments** from the left navigation menu, and select the **Suggestions (preview)** tab.
