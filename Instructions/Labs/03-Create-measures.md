@@ -9,7 +9,7 @@ In this lab, you will learn how to:
 - Define business measures to track business performance and health
 - Define customer measures to gain insights about individual customers
 
-## Exercise 1: Define business measures
+## Exercise 1: Define measures and attributes
 ### Task 1: Average value of in-store purchases
 In this first task, we will create a measure to define the average value of all in-store purchases made at **Contoso Coffee**.
 
