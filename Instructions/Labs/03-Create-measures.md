@@ -1,8 +1,16 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 3: Create measures'
+---
+
+# Lab 3: Create measures
+
+In this lab, you will learn how to:
 - Define business measures to track business performance and health
 - Define customer measures to gain insights about individual customers
 
-## Define business measures
+## Exercise 1: Define business measures
+### Task 1: Average value of in-store purchases
 In this first task, we will create a measure to define the average value of all in-store purchases made at **Contoso Coffee**.
 
 1. Expand **Insights** and select **Measures** from the left navigation menu.
@@ -59,7 +67,7 @@ In this next task, we will create a measure to define the Average value of all w
 
 1. Select the **Run** button to complete your measure.
 
-## Define customer measures
+## Task 2: Define customer measures
 We will need two customer measures that can be used to calculate a customer attribute. We will create one measure to determine the customers' total spend on **Online Purchases** and one measure to determine their total spend on **In-Store purchases**. Once we create these, we can then create a customer attribute to add those two together.
 
 In this task, we will create a measure to define the total of all purchases made in-store.
@@ -110,7 +118,7 @@ Next, we will create a measure to define the total of all purchases made online.
 
 1. Select the **Run** button to complete your measure.
 
-## Define customer attributes 
+### Task 3: Define customer attributes 
 First, we will define **Total Loyalty Points** earned by each customer.
 
 1. If necessary, select **Insights > Measures** from the left navigation menu.
@@ -169,6 +177,7 @@ Next, we will define the average value of all store purchases made for each cust
 
 1. Select the **Run** button to complete the measure.
 
+### Task 4: Average value of web purchases
 Next, we will define the average value of all web purchases made for each customer.
 
 1. If necessary, select **Measures** from the left navigation menu.
