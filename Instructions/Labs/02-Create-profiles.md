@@ -1,4 +1,10 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 2: Create unified customer profiles'
+---
+
+# Lab 2: Create unified customer profiles
+In this lab, you will learn how to:
 - Merge data from your raw data sources into a customer profile
 - Select a primary key 
 - Create match rules
@@ -6,7 +12,8 @@ In this unit, you will learn how to:
 
 Your objective is to find out how many unique customer profiles **Contoso Retail** has across various data sources.
 
-## Map contacts into common data types
+## Exercise 1: Unify your data
+### Task 1: Map contacts into common data types
 1. Sign into **Customer Insights - Data**.
 
 1. On the left navigation menu, expand **Data**, select **Unify**. Select **Get started**.
@@ -27,8 +34,8 @@ Your objective is to find out how many unique customer profiles **Contoso Retail
 
 1. Select **Next** and **Next** again, to skip the duplicate checking and move on to the **Matching rules** step.
 
-## Specify match order
-1. For the next stage, we must select the order in which to merge the profiles. You will be able to merge attributes to ensure that the unified profiles are complete as well as the priority of which sources to use for those attributes.
+### Task 2: Specify match order
+For the next stage, we must select the order in which to merge the profiles. You will be able to merge attributes to ensure that the unified profiles are complete as well as the priority of which sources to use for those attributes.
 
 1. You should select the most complete or accurate profile source as the **Primary (first) source**. Verify **Contacts : eCommerce** is the primary (first) source.
 
@@ -36,7 +43,7 @@ Your objective is to find out how many unique customer profiles **Contoso Retail
 
 1. Verify that **Include all records** is checked for both data sources.
 
-## Create a match rule
+### Task 3: Create a match rule
 1. There is a warning indicator on the **Customers : Loyalty** line. Select **+ Add rule**.
 
 1. Add the first condition using **FullName**:
@@ -64,9 +71,10 @@ Your objective is to find out how many unique customer profiles **Contoso Retail
 
 Congratulations! You have successfully unified data from multiple sources within **Customer Insights** to create a **Unified Customer Profile** that can be used to gain insights into your whole customer base.
 
-## Configure search columns and filter index 
-In this task, we will set up **search and filter** criteria to enable Customer Insights users to search for unified customer profiles.
+## Exercise 2: Configure search and filter indexes and activities
+In this exercise, we will set up **search and filter** criteria to enable Customer Insights users to search for unified customer profiles. After, we will configure activities.
 
+### Task 1: Configure search columns and filter index 
 1. In **Customer Insights**, select **Customers** from the left navigation menu.
 
 1. Select **Search & filter index**. Some fields are already added by default. Select **+Add** from the toolbar.
@@ -81,7 +89,7 @@ In this task, we will set up **search and filter** criteria to enable Customer I
 
 1. You can use **Search customers** to search for text attributes relating to unified customer profiles. (E.g. Searching '1' will search against all text attributes and return matches and partial matches.)
 
-## Create activities
+### Task 2: Create activities
 1. In **Customer Insights**, expand **Data > Activities** on the left navigation menu and select **+ Configure activities**.
 
 1. Click **Select tables**.
