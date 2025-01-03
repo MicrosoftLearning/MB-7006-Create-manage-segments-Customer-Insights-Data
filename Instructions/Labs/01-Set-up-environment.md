@@ -12,7 +12,7 @@ This guided project will walk you through four exercises to configure the applic
 - Create segments
 - Generate insights on your segments
 
-## Exerise 1: Procure a trial
+## Exercise 1: Procure a trial
 You need access to Dynamics 365 Customer Insights to complete this guided project.
 
 ### Task 1: Sign up for a Dynamics 365 Customer Insights trial
