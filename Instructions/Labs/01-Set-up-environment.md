@@ -2,6 +2,7 @@
 lab:
     title: 'Lab 1: Set up environment'
 ---
+# Lab 1: Set up environment 
 
 In this guided project, you will import datasets and create unified customer profiles. Using these profiles, you will then create measures and segments. After the segments are created you will generate powerful insights based on your segments. 
 
@@ -11,11 +12,11 @@ This guided project will walk you through four exercises to configure the applic
 - Create segments
 - Generate insights on your segments
 
-## Setup
+## Exerise 1: Procure a trial
 You need access to Dynamics 365 Customer Insights to complete this guided project.
 
-### Sign up for a Dynamics 365 Customer Insights trial
-If needed, you can sign up for a trial by following these steps:
+### Task 1: Sign up for a Dynamics 365 Customer Insights trial
+You can sign up for a trial by following these steps:
 
 1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. In the middle of the screen, you will see two buttons: one to see plans and pricing, the other to try for free. Select **Try for free.**
 1. Navigate to the Dynamics 365 Customer Insights box and select **Try for free**. Enter your work email address and select **Start your free trial.** Enter your region and phone number, if prompted, and select **Submit.**
@@ -27,12 +28,10 @@ If needed, you can sign up for a trial by following these steps:
 1. Select **Next** in the Data Storage section and **Marketing Trial** for your Microsoft Dataverse environment. Then click **Next.**
 1. Select **Create.**
 
-## Ingest data sources
+## Exercise 2: Ingest data sources
 For this guided project, you will need to import various data sources. These data sources will be used in creating your unified customer profiles.
 
-To import the data sources, follow these steps:
-
-### Ingest customer data from eCommerce Platform
+### Task 1: Ingest customer data from eCommerce Platform
 1. In **Customer Insights - Data**, expand **Data** on the left navigation menu and select **Data sources**.
 
 1. Select **+Add a data source**. View the available methods of ingesting data. For this lab, choose **Microsoft Power Query** and name the source **eCommerce**, then select **Next**.
@@ -58,7 +57,7 @@ To import the data sources, follow these steps:
 
 Congratulations. You have now successfully created your first data source with a data set! We'll continue importing the next data set in the next task.
 
-### Ingest customer data from Loyalty Scheme
+### Task 2: Ingest customer data from Loyalty Scheme
 1. In **Customer Insights**, expand **Data** on the left menu and select **Data sources**.
 
 1. Select **+Add a Data Source** and choose **Microsoft Power Query** as the import method. Name the source **Loyalty**, then select **Next**.
@@ -78,7 +77,7 @@ Congratulations. You have now successfully created your first data source with a
 
 1. Select **Refresh manually**, then select **Save**.
 
-### Ingest customer data from Point of Sale Purchases
+### Task 3: Ingest customer data from Point of Sale Purchases
 1. In **Customer Insights**, expand **Data** on the left navigation menu and select **Data sources**.
 
 1. Select **+ Add a data source**, choose **Microsoft Power Query** and name the source **PoS**, then select **Next**.
@@ -100,7 +99,7 @@ Congratulations. You have now successfully created your first data source with a
 
 1. Choose **Refresh manually** and select **Save**.
 
-### Ingest Online Purchase Data
+### Task 4: Ingest Online Purchase Data
 1. In this task, we will ingest **Online Purchase** data, representing purchases made via the **Contoso Coffee** website.
 
 1. In **Customer Insights**, expand **Data** on the left menu and select **Data sources**. (Make sure the status of the **eCommerce** data source says **Successful**.)
@@ -123,5 +122,4 @@ Congratulations. You have now successfully created your first data source with a
 
 1. Name this query **Purchases** and select **Save**.
 
-> [!IMPORTANT]
-> You will have to wait for the status of all your data sources to be **Successful** before you can advance to the first exercise.
+**Important:** You will have to wait for the status of all your data sources to be **Successful** before you can advance to the first exercise.
