@@ -1,8 +1,8 @@
 ---
 lab:
-    title: 'Lab 1: Set up environment'
+    title: 'Lab 0: Set up environment'
 ---
-# Lab 1: Set up environment 
+# Lab 0: Set up environment 
 
 In this guided project, you will import datasets and create unified customer profiles. Using these profiles, you will then create measures and segments. After the segments are created you will generate powerful insights based on your segments. 
 
