@@ -1,3 +1,16 @@
+---
+lab:
+    title: 'Lab 1: Ingest datasets'
+---
+
+# Lab 1: Ingest datasets
+In this lab, you will learn how to:
+- Bring in multiple datasets using PowerQuery
+- Transform datasets and change column types
+- Monitor import status
+
+In order to create segments, we first need to import the data we will use in our segments. In this lab, we will import a few datasets as a prerequisite to unify the data and build our segments.
+
 ## Exercise 1: Ingest data sources
 For this guided project, you will need to import various data sources. These data sources will be used in creating your unified customer profiles.
 
