@@ -67,7 +67,7 @@ In this next task, we will create a measure to define the Average value of all w
 
 1. Select the **Run** button to complete your measure.
 
-## Task 2: Define customer measures
+### Task 2: Define customer measures
 We will need two customer measures that can be used to calculate a customer attribute. We will create one measure to determine the customers' total spend on **Online Purchases** and one measure to determine their total spend on **In-Store purchases**. Once we create these, we can then create a customer attribute to add those two together.
 
 In this task, we will create a measure to define the total of all purchases made in-store.
