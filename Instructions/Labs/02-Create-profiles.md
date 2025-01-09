@@ -105,7 +105,7 @@ In this exercise, we will set up **search and filter** criteria to enable Custom
     - Set the **Primary key** to **PurchaseId.**
 
 1. Select **Next.**
-    -
+   
 1. Configure **eCommerce : Purchases** as follows:
     - Enter **OnlinePurchase** for **Activity name**.
     - Fill out the following fields (for any fields not mentioned, leave blank):
