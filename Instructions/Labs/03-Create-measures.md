@@ -39,7 +39,7 @@ In this first task, we will create a measure to define the average value of all 
 
 1. Select the **Run** button to complete your measure.
 
-In this next task, we will create a measure to define the Average value of all web purchases made at **Contoso Coffee**.
+    In this next task, we will create a measure to define the Average value of all web purchases made at **Contoso Coffee**.
 
 1. Select **Insights > Measures** from the left navigation menu.
 
@@ -94,7 +94,7 @@ In this task, we will create a measure to define the total of all purchases made
 
 1. Select the **Run** button to complete your measure. If you encounter an error and need to choose the **Relationship path**, select **PoS_Purchases > Customer** and select the **Run** button to complete.
 
-Next, we will create a measure to define the total of all purchases made online.
+    Next, we will create a measure to define the total of all purchases made online.
 
 1. Select **Insights > Measures** from the left navigation menu.
 
@@ -135,7 +135,7 @@ First, we will define **Total Loyalty Points** earned by each customer.
 
 1. Select the **Run** button to complete your measure.
 
-Next, we will define the total value of all purchases made for each customer.
+    Next, we will define the total value of all purchases made for each customer.
 
 1. Select **Insights > Measures** from the left navigation menu.
 
@@ -161,7 +161,7 @@ Next, we will define the total value of all purchases made for each customer.
 
 1. Select the **Run** button to complete your measure.
 
-Next, we will define the average value of all store purchases made for each customer.
+    Next, we will define the average value of all store purchases made for each customer.
 
 1. Select **Insights > Measures** from the left navigation menu.
 
