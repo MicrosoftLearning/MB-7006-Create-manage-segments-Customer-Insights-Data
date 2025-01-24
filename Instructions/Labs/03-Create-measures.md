@@ -157,8 +157,6 @@ First, we will define **Total Loyalty Points** earned by each customer.
 
 1. Select the **Measures** tab, expand **TotalOnlineSpend : CustomerInsights**, select **Calculation 1**, and select **Add**.
 
-1. Your completed measure will resemble the image below:
-
 1. Select the **Run** button to complete your measure.
 
     Next, we will define the average value of all store purchases made for each customer.
