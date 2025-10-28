@@ -1,4 +1,3 @@
-**⚠️ This GitHub repo will retire on 31st October 2025.**
 # MB-7006 - Create and manage segments in Dynamics 365 Customer Insights - Data
 
 This repo contains exercises and supporting files for MB-7006 – Create and manage segments in Dynamics 365 Customer Insights – Data. This course is designed for students who are planning on using Dynamics 365 Customer Insights – Data to unify an organization’s disparate data systems and create powerful segments based on customer and business attributes in the unified data.
